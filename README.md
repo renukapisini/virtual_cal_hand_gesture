@@ -23,13 +23,7 @@ MediaPipe – for hand tracking and gesture detection
 
 NumPy – for mathematical operations
 
-📥 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/hand-gesture-calculator.git
-cd hand-gesture-calculator
-
+📥 Installation:
 
 Install dependencies:
 
